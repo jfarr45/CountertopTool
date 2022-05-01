@@ -1,0 +1,83 @@
+[
+    {
+        "key": "unit_number",
+        "type": "input",
+        "options": {
+            "label": "Countertop Unit Number/Location:",
+            "placeholder": "Ex. 104 or Community",
+            "required": true
+        }
+    },
+
+    {
+        "key": "left_leg_length",
+        "type": "number",
+        "options": {
+            "label": "Left Leg Length:",
+            "placeholder": 52
+        }
+    },
+
+    {
+        "key": "left_leg_depth",
+        "type": "number",
+        "options": {
+            "label": "Left Leg Depth:",
+            "placeholder": 25.25
+        }
+    },
+
+    {
+        "key": "back_leg_length",
+        "type": "number",
+        "options": {
+            "label": "Back Leg Length:",
+            "placeholder": 42
+        }
+    },
+
+    {
+        "key": "back_leg_depth",
+        "type": "number",
+        "options": {
+            "label": "Back Leg Depth:",
+            "placeholder": 25.25
+        }
+    },
+
+    {
+        "key": "right_leg_length",
+        "type": "number",
+        "options": {
+            "label": "Right Leg Length:",
+            "placeholder": 36
+        }
+    },
+
+    {
+        "key": "right_leg_depth",
+        "type": "number",
+        "options": {
+            "label": "Right Leg Depth:",
+            "placeholder": 25.25
+        }
+    },
+
+    {
+        "key": "sink_needed",
+        "type": "boolean",
+        "options": {
+            "label": "Sink Cut-Out Needed?",
+            "required": false
+        }
+    },
+
+    {
+        "key": "sink_centerline",
+        "type": "number",
+        "options": {
+            "label": "Distance from what side on what leg:",
+            "placeholder": "32 from R on back leg"
+        }
+    }
+]
